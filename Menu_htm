@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+Menu.page
+</title>
+<link rel="stylesheet" type="text/css" href="menu.css"/>
+</head>
+<body>
+
+<P><h1>**Appetizer**</h1></p>
+
+<ol>
+<h3><li>Salad </li> <img src ="image/salad.jpg"  height="104" width="100"/> <P><h5><small>Price:12 $</small></h5></p><a href="Review_html"><h5>People Review</h5></a>
+
+<li>Pizza </li><img src ="image/Pizza.jpeg"  height="104" width="100"/><P><h5><small>Price:15 $</small></h5></p><a href="Review_html"><h5>People Review</h5></a>
+
+<li>falafel</li><img src ="image/falafel.jpeg"  height="104" width="100"/><P><h5><small>Price:10 $</small></h5></p><a href="Review_html"><h5>People Review</h5></a>
+</h3>
+</ol>
+
+</body>
+
+</html>
